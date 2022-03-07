@@ -1,2 +1,2 @@
-# TorchRec-demo
-Getting started with TorchRec.
+# TensorFlow-Recommenders-demo
+Getting started with TensorFlow Recommenders.
