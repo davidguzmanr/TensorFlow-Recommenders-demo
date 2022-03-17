@@ -1,1 +1,4 @@
-streamlit
+jupyterlab==3.3.2
+tensorflow==2.8.0
+tensorflow-datasets==4.5.2
+tensorflow-recommenders==0.6.0
