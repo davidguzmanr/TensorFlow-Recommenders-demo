@@ -4,6 +4,6 @@ skip-string-normalization = true
 verbose = true
 target-version = ['py37']
 
-[tool.isort]
-profile = 'black'
-verbose = true
+# [tool.isort]
+# profile = 'black'
+# verbose = true
