@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# data
+notebooks/Netflix/data/combined_data_1.txt
+
 # Distribution / packaging
 .Python
 build/
